@@ -1,6 +1,6 @@
  This software is released under the MIT License, see [LICENSE](./LICENSE)
  
- # What's `dps`
+ # What's `dmountpoint`
  
  `dmountpoint` shows the lists of the processes running in your all containers.
 

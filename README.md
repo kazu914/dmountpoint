@@ -10,7 +10,7 @@
 # How to install
 
 ```
-wget -O - https://github.com/kazu914/dmountpoint/releases/download/v1.0.0/dmountpoint_1.0.0_linux_amd64.tar.gz | tar zxvf -
+wget -O - https://github.com/kazu914/dmountpoint/releases/download/v1.0.1/dmountpoint_linux_x86_64.tar.gz | tar zxvf -
 ```
 
 # How to use
